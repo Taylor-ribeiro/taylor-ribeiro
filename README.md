@@ -33,10 +33,9 @@ Automated **financial reporting** using **Python (Pandas, NumPy)**, reducing man
 - **Version Control & CI/CD**: Git, GitHub  
 
 ## 📫 Contact Me  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [taylor.j.ribeiro@gmail.com](mailto:taylor.j.ribeiro@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/taylor-ribeiro](https://www.linkedin.com/in/taylor-ribeiro)  
-- 🖥️ Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 🏆 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- 🖥️ Portfolio: [https://taylor-ribeiro.github.io/portfolio/](https://[your-portfolio.com](https://taylor-ribeiro.github.io/portfolio/) 
 
 ---
 
