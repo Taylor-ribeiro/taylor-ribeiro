@@ -35,7 +35,7 @@ Automated **financial reporting** using **Python (Pandas, NumPy)**, reducing man
 ## 📫 Contact Me  
 - 📧 Email: [taylor.j.ribeiro@gmail.com](mailto:taylor.j.ribeiro@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/taylor-ribeiro](https://www.linkedin.com/in/taylor-ribeiro)  
-- 🖥️ Portfolio: [https://taylor-ribeiro.github.io/portfolio/](https://[your-portfolio.com](https://taylor-ribeiro.github.io/portfolio/) 
+- 🖥️ Portfolio: [https://taylor-ribeiro.github.io/portfolio/](https://taylor-ribeiro.github.io/portfolio/) 
 
 ---
 
