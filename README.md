@@ -1,4 +1,4 @@
-Hi 👋 I'm Taylor! A **Data Analyst** with **10 years of experience** in **data analytics, visualization, and business intelligence**. I specialize in transforming data into actionable insights using **SQL, Python, and Tableau**. My background spans industries including **healthcare, finance, telecommunications, and aerospace**, where I’ve worked on **data-driven decision-making, process automation, and dashboard development**.  
+Hi 👋 I'm Taylor! A **Data Analyst** with **10 years of experience** in **data analytics**. I specialize in transforming data into actionable insights using **SQL, Python, and Tableau**. My background spans industries including **healthcare, finance, telecommunications, and aerospace**, where I’ve worked on **data-driven decision-making, process automation, and dashboard development**.  
 
 I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with over 5 years of experience leading cross-functional teams, managing technical documentation, and driving adoption of data solutions to drive business improvements.  
 
