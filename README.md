@@ -5,16 +5,9 @@ I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with 
 ## Skills  
 - **Programming & Data Processing**: Python (Pandas, NumPy), SQL, Palantir Foundry (PySpark)  
 - **Data Visualization & BI**: Tableau, Power BI, Matplotlib, Streamlit, Salesforce  
-- **Business Analytics**: KPI Dashboards, Forecasting, A/B Testing, Market Research  
+- **Business Analytics**: KPI Dashboards, Forecasting, Market Research, Systems Analysis  
 - **Data Management & ETL**: Data Integration, Data Cleaning, Transformation  
 - **Agile & Communication**: Agile Project Management, Stakeholder Collaboration, Technical Documentation
-
-## Tools & Technologies  
-- **Programming**: Python (Pandas, NumPy), SQL (PostgreSQL, MySQL)  
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, Streamlit  
-- **Cloud & ETL**: AWS (Redshift, S3), Palantir Foundry, Apache Airflow  
-- **Business Intelligence**: Salesforce, Excel (Advanced), KPI Dashboards  
-- **Version Control & CI/CD**: Git, GitHub  
 
 ## Portfolio Projects (more coming soon!) 
 ### 📊 Survey Feedback Automation & Analysis  
