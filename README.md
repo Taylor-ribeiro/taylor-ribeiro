@@ -23,4 +23,4 @@ I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with 
 
 ---
 
-🚀 *Let’s connect and use data to make a real business impact*  
+🚀 *Let’s connect and make a real business impact through data*  
