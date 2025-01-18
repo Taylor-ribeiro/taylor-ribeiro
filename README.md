@@ -10,8 +10,8 @@ I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with 
 - **Data Management & ETL**: Data Integration, Data Cleaning, Transformation  
 - **Agile & Communication**: Agile Project Management, Stakeholder Collaboration, Technical Documentation
 
-## Sample Projects
-[Projects](https://github.com/Taylor-ribeiro/portfolio/blob/main/README.md)
+## Project Portfolio
+See some of my work: [Projects](https://github.com/Taylor-ribeiro/portfolio/blob/main/README.md)
 
 ## 📫 Contact Me  
 - 📧 Email: [taylor.j.ribeiro@gmail.com](mailto:taylor.j.ribeiro@gmail.com)  
