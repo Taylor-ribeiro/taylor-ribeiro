@@ -11,12 +11,15 @@ I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with 
 - **Agile & Communication**: Agile Project Management, Stakeholder Collaboration, Technical Documentation
 
 ## Project Portfolio
-See some of my work: [Projects](https://github.com/Taylor-ribeiro/portfolio/blob/main/README.md)
+| Project Name      | Description                               | Category            | Languages       | Libraries             |
+|------------------|-----------------------------------|------------------|--------------|-------------------|
+| [Salary Insights](https://github.com/Taylor-ribeiro/sample-projects/blob/main/data-science-salaries-analysis.ipynb)  | Analyzing data science salaries trends | Data Analysis      | Python        | Pandas, Matplotlib, seaborn |
+
 
 ## 📫 Contact Me  
 - 📧 Email: [taylor.j.ribeiro@gmail.com](mailto:taylor.j.ribeiro@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/taylor-ribeiro](https://www.linkedin.com/in/taylor-ribeiro)  
-- 🖥️ Portfolio: [https://taylor-ribeiro.github.io/portfolio/](https://taylor-ribeiro.github.io/portfolio/) 
+- 🖥️ Website: [https://taylor-ribeiro.github.io/portfolio/](https://taylor-ribeiro.github.io/portfolio/) 
 
 ---
 
