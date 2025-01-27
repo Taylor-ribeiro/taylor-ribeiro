@@ -1,18 +1,20 @@
-## Introduction
-Hi 👋 I'm Taylor! A **Data Analyst** with **10 years of experience** in **data analytics**. I specialize in transforming data into actionable insights using **SQL, Python, and Tableau**. My background spans industries including **healthcare, finance, telecommunications, and aerospace**, where I’ve worked on **data-driven decision-making, process automation, and dashboard development**.  
+## About Me  
+With **10+ years of experience** in **systems engineering and data analytics**, I specialize in **designing, integrating, and optimizing complex systems** . My expertise includes **requirements engineering, system design & architecture, integration, verification & validation, risk management, optimization, and cross-functional collaboration.* I also bring over 6 years of experience in agile leadership and data-driven solutions to enhance decision-making.
 
-I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with over 5 years of experience leading cross-functional teams, managing technical documentation, and driving adoption of data solutions to drive business improvements.  
+---
 
-## Skills  
-- **Programming & Data Processing**: Python (Pandas, NumPy), SQL, Palantir Foundry (PySpark)  
-- **Data Visualization & BI**: Tableau, Power BI, Matplotlib, Streamlit, Salesforce  
-- **Business Analytics**: KPI Dashboards, Forecasting, Market Research, Systems Analysis  
-- **Data Management & ETL**: Data Integration, Data Cleaning, Transformation  
-- **Agile & Communication**: Agile Project Management, Stakeholder Collaboration, Technical Documentation
+## What I Do  
+🚀 **Systems Engineering** – Expertise in requirements, integration & test, verification & validation, user-centric design.
+📊 **Data Analytics** – SQL, Python, MATLAB, and BI tools for deep data insights and visualization.  
+🤖 **AI & Data Analytics** – Driving and promoting the latest Data & AI adoption and innovation.  
+📅 **Agile Leadership** – Certified SAFe Practitioner and Product Owner, ensuring iterative and efficient project execution.  
+
+---
 
 ## Project Portfolio
 | Project Name      | Description                               | Category            | Languages       | Libraries             |
 |------------------|-----------------------------------|------------------|--------------|-------------------|
+| [A System Designer for Space Debris Removal](https://github.com/Taylor-ribeiro/portfolio/blob/main/systems%20engineering/Capstone%20Project.pptx) | A software-based decision-making tool will be needed to aid engineers in designing a system to reduce space debris, resulting in a decrease of satellite loss and hazards for manned flight missions | Systems Engineering      | N/A        | N/A |
 | [Salary Insights](https://github.com/Taylor-ribeiro/sample-projects/blob/main/data-science-salaries-analysis.ipynb)  | Analyzing data science salaries trends | Data Analysis      | Python        | Pandas, Matplotlib, seaborn |
 
 
@@ -23,4 +25,4 @@ I am also a **Certified SAFe 5 Practitioner** and **Agile Product Owner**, with 
 
 ---
 
-🚀 *Let’s connect and make a real business impact through data*  
+🚀 *Let’s connect to discuss how I can help you build scalable, cost-effective systems*
