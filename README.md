@@ -1,5 +1,9 @@
 ## About Me  
-With **10+ years of experience** in **systems engineering and data analytics**, I specialize in **designing, integrating, and optimizing complex systems** . My expertise includes **requirements engineering, system design & architecture, integration, verification & validation, risk management, optimization, and cross-functional collaboration.* I also bring over 6 years of experience in agile leadership and data-driven solutions to enhance decision-making.
+Hi, I'm Taylor, I specialize in designing, optimizing, and implementing complex, high-performance systems. I also served as a Product Owner, leading software development and technical enablement for the past 5 years.
+
+I developed a strong technical enablement and data skill set, allowing me to work effectively across engineering, data science, and AI domains.
+
+Passionate about solving complex engineering problems, finding efficiencies, integrating cutting-edge technologies, and driving collaborative, high-impact solutions.
 
 ---
 
@@ -14,6 +18,7 @@ With **10+ years of experience** in **systems engineering and data analytics**, 
 ## Project Portfolio
 | Project Name      | Description                               | Category            | Languages       | Libraries             |
 |------------------|-----------------------------------|------------------|--------------|-------------------|
+| [Automating Training Feedback Process[ (insert link) | Automated training feedback collection by building an AWS-hosted survey app with a Python ETL pipeline (Palantir Foundry), integrating results into Tableau for real-time insights, reducing manual effort by 50%. | Data Engineer / Systems Engineering      | Python        | Streamlit API, Pandas |
 | [A System Designer for Space Debris Removal](https://github.com/Taylor-ribeiro/portfolio/blob/main/systems%20engineering/Capstone%20Project.pptx) | A software-based decision-making tool will be needed to aid engineers in designing a system to reduce space debris, resulting in a decrease of satellite loss and hazards for manned flight missions | Systems Engineering      | N/A        | N/A |
 | [Salary Insights](https://github.com/Taylor-ribeiro/sample-projects/blob/main/data-science-salaries-analysis.ipynb)  | Analyzing data science salaries trends | Data Analysis      | Python        | Pandas, Matplotlib, seaborn |
 
